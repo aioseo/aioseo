@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://aurealisa.web.id" target="_blank">
+  <a href="https://www.aurealisa.com" target="_blank">
     <img src="https://img.shields.io/badge/My_Blog-aurealisa.web.id-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Aurealisa Blog">
   </a>
   <a href="https://twitter.com/aurealisa" target="_blank">
@@ -19,7 +19,7 @@
 
 <p align="center">
   Seorang penjelajah dunia digital yang selalu ingin tahu dan suka berbagi cerita.
-  Dari coding hingga blogging di <a href="https://aurealisa.web.id" target="_blank">aurealisa.web.id</a>, saya percaya setiap baris kode dan setiap kata punya kekuatan untuk menciptakan sesuatu yang berarti.
+  Dari coding hingga blogging di <a href="https://www.aurealisa.com" target="_blank">aurealisa.web.id</a>, saya percaya setiap baris kode dan setiap kata punya kekuatan untuk menciptakan sesuatu yang berarti.
 </p>
 
 ---
